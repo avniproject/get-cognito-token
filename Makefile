@@ -1,2 +1,2 @@
 get-token-staging:
-	@node ./token 'https://staging.openchs.org' $(username) $(password)
+	@node ./token 'https://staging.avniproject.org' $(username) $(password)
