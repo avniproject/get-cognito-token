@@ -11,6 +11,7 @@
     "url": "git+https://github.com/avniproject/utils.git"
   },
   "dependencies": {
+    "amazon-cognito-identity-js": "^4.5.3",
     "openchs-idi": "github:openchs/openchs-idi#b6c57e051b91ed4bc2634f4f087dba51cc3a01c8"
   },
   "author": "",
