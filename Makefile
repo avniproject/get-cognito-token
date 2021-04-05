@@ -9,3 +9,6 @@ get-token-uat:
 
 get-token-prerelease:
 	@node ./scripts/token 'https://prerelease.avniproject.org' $(username) $(password)
+
+deps:
+	npm install
